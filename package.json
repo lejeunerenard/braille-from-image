@@ -1,0 +1,30 @@
+{
+  "name": "braille-from-image",
+  "version": "0.0.1",
+  "description": "Convert an image into braille unicode characters",
+  "main": "index.js",
+  "dependencies": {
+    "drawille": "^1.0.0",
+    "drawille-canvas": "^0.1.0",
+    "sharp": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lejeunerenard/braille-from-image.git"
+  },
+  "keywords": [
+    "braille",
+    "unicode",
+    "image"
+  ],
+  "author": "lejeunerenard",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/lejeunerenard/braille-from-image/issues"
+  },
+  "homepage": "https://github.com/lejeunerenard/braille-from-image"
+}
