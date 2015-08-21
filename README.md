@@ -1,3 +1,5 @@
+![Result](result.jpg)
+
 # braille-from-image
 
 Convert images to Braille unicode characters.
